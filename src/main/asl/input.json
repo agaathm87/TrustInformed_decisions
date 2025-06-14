@@ -1,0 +1,45 @@
+{
+  "agents": [
+    {
+      "name" : "benevolence",
+      "script_file" : "benevolence.asl",
+      "number": 1
+    },
+    {
+      "name" : "competence",
+      "script_file" : "competence.asl",
+      "number": 1
+    },
+    {
+      "name" : "integrity",
+      "script_file" : "intergrity.asl",
+      "number": 1
+    },
+    {
+      "name" : "reasoning",
+      "script_file" : "reasoning.asl",
+      "number": 1
+    },
+    {
+      "name" : "agent",
+      "script_file" : "agent.asl",
+      "number": 1
+    },
+      {
+      "name" : "comms",
+      "script_file" : "comms.asl",
+      "number": 1
+    },
+      {
+      "name" : "trustworthiness",
+      "script_file" : "trustworthiness.asl",
+      "number": 1
+    },
+      {
+      "name" : "decisionCosim",
+      "script_file" : "decisionCosim.asl",
+      "number": 1
+    }
+
+  ]
+}
